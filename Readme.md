@@ -1,10 +1,13 @@
 - 👋 Hi, I’m AMAN KUMAR
 - 👀 I’m interested in ... Web Development
+- 👯 Having a good knowledge of C,C++,Python.
 - 🌱 I’m currently learning ...Full Stack Web-Development
+- 🤔 I’m looking for Good project ideas based on the above language to contribute my best.
 
 ### About me:
 - Currently, a B.Tech undergraduate student in Electronics and Communication Engineering
 - Web Development enthusiast
+- Data Science enthusiast
 - Looking forward to come up and contribute to some cool projects
 
 <img src="https://github-readme-stats.vercel.app/api?username=Amankumar53082&count_private=true&show_icons=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumar53082"/>
