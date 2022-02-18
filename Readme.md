@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AMAN KUMAR
 - 👀 I’m interested in ... Web Development
-- 👯 Having a good knowledge of C,C++,Python.
+- 👯 Having a good knowledge of C,C++,Python,Java.
 - 🌱 I’m currently learning ...Full Stack Web-Development
 - 🤔 I’m looking for Good project ideas based on the above language to contribute my best.
 
