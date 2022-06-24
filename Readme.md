@@ -7,7 +7,6 @@
 ### About me:
 - Currently, a B.Tech undergraduate student in Electronics and Communication Engineering
 - Web Development enthusiast
-- Data Science enthusiast
 - Looking forward to come up and contribute to some cool projects
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amankumar53082?cardType=github)](https://git.io/awesome-stats-card)
