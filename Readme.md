@@ -10,10 +10,14 @@
 - Data Science enthusiast
 - Looking forward to come up and contribute to some cool projects
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amankumar53082&count_private=true&show_icons=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumar53082"/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Amankumar53082?cardType=github)](https://git.io/awesome-stats-card)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amankumar53082&count_private=true&show_icons=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amankumar53082"/>
 
  ### Languages/Tools:
- <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
