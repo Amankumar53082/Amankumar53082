@@ -5,7 +5,7 @@
 - 🤔 I’m looking for Good project ideas based on the above language to contribute my best.
 
 ### About me:
-- Currently, a B.Tech undergraduate student in Electronics and Communication Engineering
+- Currently, A B.Tech Graduate student in Electronics and Communication Engineering
 - Web Development enthusiast
 - Looking forward to come up and contribute to some cool projects
 
