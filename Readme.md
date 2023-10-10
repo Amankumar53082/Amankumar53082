@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AMAN KUMAR
 - 👀 I’m interested in ... Web Development
-- 👯 Having a good knowledge of C,C++,Java.
+- 👯 Having a good knowledge of C,Java.
 - 🤔 I’m looking for Good project ideas based on the above language to contribute my best.
 
 ### About me:
@@ -16,7 +16,7 @@
 
  ### Languages/Tools:
 <code><img height="20" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+</code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
@@ -30,8 +30,8 @@
 <a target="_blank" href="mailto:amankumar53082@gmail.com">
   <img align="left" alt="Gmail" height="30px" width="60px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a target="_blank" href="https://www.instagram.com/amankumar53082/">
+<a target="_blank" href="https://www.instagram.com/mr_aman53082/">
   <img align="left" alt="Instagram" height ="30px" width="60px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a target="_blank" href="https://https://www.twitter.com/AmanKumar53082">
+<a target="_blank" href="https://https://www.twitter.com/mr_aman53082">
   <img align="left" alt="Twitter" height="30px" width="60px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
